@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+
+    <color name="grey">#808080</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#1E90FF</color>
+    
+    <string name="app_name">Smart Controller</string>
+    <string name="empty">-</string>
+    <string name="connect_string">连接</string>
+    <string name="no_connection">未连接</string>
+    <string name="voice_result">语音命令:</string>
+    <string name="voice_result_hint">命令识别结果</string>
+    <string name="voice">Voice</string>
+    <string name="btn1">获取温湿度</string>
+    <string name="btn2">获取光强</string>
+    <string name="btn3">获取可燃气体浓度</string>
+    <string name="btn4">获取门窗传感器数据</string>
+    <string name="text1">家居环境</string>
+    <string name="temperation">温度: </string>
+    <string name="humidity">湿度: </string>
+    <string name="lightIntention">光强: </string>
+    <string name="gasIntention">可燃气体浓度: </string>
+    <string name="DoorsWindowsSensor">门窗传感器数据: </string>
+    <string name="text2">电器控制</string>
+    <string name="switch1_on">关灯</string>
+    <string name="switch1_off">开灯</string>
+    <string name="switch2_on">关风扇</string>
+    <string name="switch2_off">开风扇</string>
+    <string name="switch3_on">关空调</string>
+    <string name="switch3_off">开空调</string>
+    <string name="switch4_on">关音响</string>
+    <string name="switch4_off">开音响</string>
+    <string name="app_version">app版本: 1.0</string>
+    <string name="HWversion">硬件版本:</string>
+</resources>
